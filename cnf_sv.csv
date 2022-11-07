@@ -1,0 +1,7 @@
+n_muestra_train,1000
+n_muestra_test,5000
+v_relevancia,20
+n_vectores_singulares,10
+c_normal,1
+c_dos,1
+c_probe,1
